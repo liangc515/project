@@ -1,0 +1,7 @@
+batch_size=128
+max val_acc=0.6089385501499283
+
+*** Best result ***
+best_batch_size=128
+best_val_acc=0.6089385501499283
+best_model_file_name=/home/jovyan/mypython/Kaggle/AIA Pokemon/model/adam_128

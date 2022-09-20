@@ -1,0 +1,12 @@
+class 0 = Sandshrew
+No.27
+class 1 = Tentacool
+No.72
+class 2 = Slowpoke
+No.79
+class 3 = Magnemite
+No.81
+class 4 = Voltorb
+No.100
+class 5 = Exeggcute
+No.102
