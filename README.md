@@ -1,6 +1,6 @@
 <i>keywords <br>
 rnn-text_classification: <br>
-  tokenizer, keras, embedding, Conv1D, MaxPooling1D, LSTM, pandas, numpy, matplotlib <br>
+  <b>tokenizer, keras, embedding, Conv1D, MaxPooling1D, LSTM, pandas, numpy, matplotlib</b> <br>
 cnn-face_classification: <br>
   FaceNet, MTCNN, KNN, SVM, MLP, matplotlib, os, numpy, pandas <br>
 house_price_prediction: <br>
