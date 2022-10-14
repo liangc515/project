@@ -1,4 +1,4 @@
-keywords <br>
+<i>keywords</i> <br>
 <b>
 rnn-text_classification: tokenizer, keras, embedding, Conv1D, MaxPooling1D, LSTM, pandas, numpy, matplotlib <br>
 cnn-face_classification: FaceNet, MTCNN, KNN, SVM, MLP, matplotlib, os, numpy, pandas <br>
