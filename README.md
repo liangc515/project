@@ -1,3 +1,3 @@
-# project
+## project
 
-# FaceNet, MTCNN, KNN, SVM, MLP, matplotlib, os, numpy, pandas
+#### cnn-face_classification includes: FaceNet, MTCNN, KNN, SVM, MLP, matplotlib, os, numpy, pandas
